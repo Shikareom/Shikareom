@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @Shikareom
-- 👀 I’m interested in learning, debugging 
-- 🌱 I’m currently learning artificial intelligence and data science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- 
-
-<!---
-Shikareom/Shikareom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Title     : Hand Written Digit Prediction - Classification analysis
+Objective : In this project, we will employ machine learning to forecast handwritten digits from the MNIST dataset. Our objective is to construct a model that 				 
+            accurately predicts the digit corresponding to a given handwritten image.
